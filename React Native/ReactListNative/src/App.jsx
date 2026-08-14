@@ -5,17 +5,26 @@ import { styles } from "./Styles";
 import { Header } from "./components/header/Header";
 import { FormTask } from './components/formtask/Formtask';
 import { TaskList } from './components/tasklist/TaskList';
+import { Footer } from './components/footer/Footer';
+import { TaskProvider } from './context/TaskContext';
 
 export default function App() {
   return (
     <SafeAreaProvider>
       <SafeAreaView style={styles.safeContainer}>
+        <TaskProvider>
+
         <View style={styles.container}>
+          
           <Header/>
           <FormTask/>
           <TaskList/>
+          <Footer/>
+
           <StatusBar style="auto" />
         </View>
+
+        </TaskProvider>
       </SafeAreaView>
     </SafeAreaProvider>
   );
