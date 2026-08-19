@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\repositories\\chamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\repositories\\chamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\interfaces\\ichamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\interfaces\\ichamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\dto\\chamadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\dto\\chamadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|c:\\users\\42501827899\\desktop\\back\\chamajussaback\\chamajussaback\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0F627-B492-49DA-BF9A-2A92DC476AE3}|ChamaJussaBack\\ChamaJussaBack.csproj|solutionrelative:chamajussaback\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "ChamaJussaBack\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T19:26:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChamadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\DTO\\ChamadoDTO.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\DTO\\ChamadoDTO.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\DTO\\ChamadoDTO.cs",
+              "RelativeToolTip": "ChamaJussaBack\\DTO\\ChamadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T19:18:05.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAwwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:50:14.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\NotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Repositories\\NotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\NotificacaoRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Repositories\\NotificacaoRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:43:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChamadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\ChamadoRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Repositories\\ChamadoRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Repositories\\ChamadoRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Repositories\\ChamadoRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:29:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:21:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\INotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Interfaces\\INotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\INotificacaoRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Interfaces\\INotificacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:15:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChamadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\IChamadoRepository.cs",
+              "RelativeDocumentMoniker": "ChamaJussaBack\\Interfaces\\IChamadoRepository.cs",
+              "ToolTip": "C:\\Users\\42501827899\\Desktop\\Back\\ChamaJussaBack\\ChamaJussaBack\\Interfaces\\IChamadoRepository.cs",
+              "RelativeToolTip": "ChamaJussaBack\\Interfaces\\IChamadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T15:56:03.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
